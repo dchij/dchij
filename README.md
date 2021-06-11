@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chidinma IJ Eziuzo
+- 👋 Hi, I’m @Chidinma 
 - 👀 I love programming, books, data science and analytics
 - 🌱 I’m addicted to learning and growing every day
 - 💞️ I’m looking to collaborate on data projects
