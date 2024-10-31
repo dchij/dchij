@@ -7,7 +7,7 @@
 
 [![Chi's github stats](https://github-readme-stats.vercel.app/api?username=dchij&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/dchij/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dchij)](https://github.com/dchij/github-readme-stats)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=dchij&left_color=green&right_color=red)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dchij)]
 
 
 <!---
